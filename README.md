@@ -1,6 +1,6 @@
 # Hi, I'm Mihret Lealem 👋
 
-### Software Engineering Student | Full-Stack Developer | Cybersecurity Enthusiast
+###  Junior Software Engineer | Full-Stack Developer | Cybersecurity|IT Support| QA Tester| 
 
 📍 Addis Ababa, Ethiopia 🇪🇹
 
@@ -15,6 +15,7 @@ I'm a Software Engineering Gratuate from Adama Science and Technology University
 - 🤝 Strong communication, teamwork, and collaboration skills
 - 🌱 Adaptable to new environments, technologies, and challenges
 - 💡 Able to understand problems, analyze requirements, and develop effective software solutions
+- ** General IT Knowledge: Computer Fundamentals, Operating Systems, File Management, Internet & Networking Basics, Office Applications, Basic Troubleshooting
 
 ## 🛠️ Tech Stack
 
